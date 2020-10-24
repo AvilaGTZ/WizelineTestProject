@@ -1,13 +1,14 @@
 # WizelineTestProject
 
+### Test ME! ⚙️
+http://wizelinetest.pythonanywhere.com/
+
 _Two end points available : Hello wordl and Random recipe_
 
 
 ### How it works ⚙️
 
 ```
-You can test the project directly here!
-Test ME!!!!! => http://wizelinetest.pythonanywhere.com/
 
 This little project has two endpoints.
 
