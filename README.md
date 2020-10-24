@@ -1,6 +1,6 @@
 # WizelineTestProject
 
-_Two end point available : Hello wordl and Random recipe_
+_Two end points available : Hello wordl and Random recipe_
 
 
 ### How it works ⚙️
@@ -16,9 +16,10 @@ This little project has two endpoints.
 ```
 
 ### Programing language and framework 🔧
-
+```
 _Python_
 _Django_
+```
 
 ### 1.1 How to start => 🔧
 
