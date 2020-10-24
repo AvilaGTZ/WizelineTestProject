@@ -1,0 +1,4 @@
+Django==2.2.4
+django-bootstrap4==2.3.1
+requests==2.24.0
+
