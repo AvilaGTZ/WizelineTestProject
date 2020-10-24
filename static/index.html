@@ -1,0 +1,35 @@
+{# Load the tag library #}
+{% load bootstrap4 %}
+
+{# Load CSS and JavaScript #}
+{% bootstrap_css %}
+{% bootstrap_javascript jquery='full' %}
+
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>AvilaGTZ</title>
+    </head>
+    {% include "navbar.html" %}
+    <main role="main" class="container">
+    <body>
+        <div class="row">
+            <div class = "col-sm-12">
+                    <div class="jumbotron"> 
+                        <h1>Hello world!</h1>
+                        <p class="lead"> This is the main endpoint...</p>
+                        
+                        <a href="{%url 'EndPoints:recipe'%}" class="btn btn-info ">Want something new to eat? -></a>
+                        
+                    </div>
+            </div>
+            
+        </div>
+    </body>
+</main>
+
+</html>
