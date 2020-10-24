@@ -6,6 +6,9 @@ _Two end points available : Hello wordl and Random recipe_
 ### How it works ⚙️
 
 ```
+You can test the project directly here!
+Test ME!!!!! => http://wizelinetest.pythonanywhere.com/
+
 This little project has two endpoints.
 
 1.- A simple hello world at the main page.
