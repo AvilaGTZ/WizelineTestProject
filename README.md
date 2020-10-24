@@ -1,7 +1,8 @@
 # WizelineTestProject
 
 ### Test ME! ⚙️
-http://wizelinetest.pythonanywhere.com/
+http://wizelinetest.pythonanywhere.com
+http://wizelinetest.pythonanywhere.com/randomRecipe
 
 _Two end points available : Hello wordl and Random recipe_
 
